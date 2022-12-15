@@ -1,0 +1,356 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+# entries:
+#   - title: informatics
+#     entries:
+#       - title: programming
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-programming-archive
+#           category: informatics/programming
+#       - title: security
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-security-archive
+#           category: informatics/security
+#       - title: networks
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-networks-archive
+#           category: informatics/networks
+#       - title: systems
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-systems-archive
+#           category: informatics/systems
+#       - title: artificial intelligence
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-ai-archive
+#           category: informatics/artificial intelligence
+#       - title: machine learning
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-ml-archive
+#           category: informatics/machine learning
+#       - title: bitcoin
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: informatics-bitcoin-archive
+#           category: informatics/bitcoin
+#   - title: mathematics & computation
+#     entries:
+#       - title: algebra
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-algebra-archive
+#           category: mathematics/algebra
+#       - title: elliptic curves
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-elliptic-curves-archive
+#           category: mathematics/elliptic curves
+#       - title: linear algebra
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-linear-algebra-archive
+#           category: mathematics/linear algebra
+#       - title: calculus
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-calculus-archive
+#           category: mathematics/calculus
+#       - title: discrete mathematics
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-discrete-mathematics-archive
+#           category: mathematics/discrete mathematics
+#       - title: statistics
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-statistics-archive
+#           category: mathematics/statistics
+#       - title: number theory
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-number-theory-archive
+#           category: mathematics/number theory
+#       - title: big-O-notation
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-big-o-notation-archive
+#           category: mathematics/big-O-notation
+#       - title: prime factorization
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-prime-factorization-archive
+#           category: mathematics/prime factorization
+#       - title: pseudo-randomness
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: mathematics-pseudo-randomness-archive
+#           category: mathematics/pseudo-randomness
+#   - title: economics
+#     entries:
+#       - title: keynesian economics
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: economics-keynesian-archive
+#           category: economics/keynesian economics
+#       - title: austrian economics
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: economics-austrian-archive
+#           category: economics/austrian economics
+#       - title: capitalism
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: economics-capitalism-archive
+#           category: economics/capitalism
+#       - title: bitcoin
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: economics-bitcoin-archive
+#           category: economics/bitcoin
+#   - title: law
+#     entries:
+#       - title: contracts
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: law-contracts-archive
+#           category: law/contracts
+#       - title: penal
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: law-penal-archive
+#           category: law/penal
+#       - title: business
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: law-business-archive
+#           category: law/business
+#       - title: bitcoin
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: law-bitcoin-archive
+#           category: law/bitcoin
+#   - title: conspiracy
+#     entries:
+#       - title: aviation
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-aviation-archive
+#           category: conspiracy/aviation
+#       - title: business
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-business-archive
+#           category: conspiracy/business
+#       - title: deaths, assassinations and dissapearances
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-dad-archive
+#           category: conspiracy/dad
+#       - title: economics and society
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-es-archive
+#           category: conspiracy/es
+#       - title: espionage
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-espionage-archive
+#           category: conspiracy/espionage
+#       - title: racism
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-racism-archive
+#           category: conspiracy/racism
+#       - title: religion
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-religion-archive
+#           category: conspiracy/religion
+#       - title: politics
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-politics-archive
+#           category: conspiracy/politics
+#       - title: medicine
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-medicine-archive
+#           category: conspiracy/medicine
+#       - title: extraterrestrial
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-extraterrestrial-archive
+#           category: conspiracy/extraterrestrial
+#       - title: science and technology
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: conspiracy-scitech-archive
+#           category: conspiracy/scitech
+#   - title: mystery
+#     entries:
+#       - title: coming soon...
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: archive.html
+#           category: coming soon...
+#   - title: paranormal
+#     entries:
+#       - title: coming soon...
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: archive.html
+#           category: coming soon...
+#   - title: philosophy
+#     entries:
+#       - title: existence
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-existence-archive
+#           category: philosophy/existence
+#       - title: aristotle
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-aristotle-archive
+#           category: philosophy/aristotle
+#       - title: metaphysical
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-metaphysical-archive
+#           category: philosophy/metaphysical
+#       - title: religion
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-religion-archive
+#           category: philosophy/religion
+#       - title: reason
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-reason-archive
+#           category: philosophy/reason
+#       - title: objectivism
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-objectivism-archive
+#           category: philosophy/objectivism
+#       - title: free will
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-free-will-archive
+#           category: philosophy/free will
+#       - title: selfishness
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-selfishness-archive
+#           category: philosophy/selfishness
+#       - title: altruism
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-altruism-archive
+#           category: philosophy/altruism
+#       - title: bitcoin
+#         post_list:
+#           limit: 5
+#           show_more: true
+#           show_more_text: See archive...
+#           show_more_url: philosophy-bitcoin-archive
+#           category: philosophy/bitcoin

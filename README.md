@@ -1,0 +1,1 @@
+Special thanks to Riggraz for the wonderful Jekyll theme <a href="https://riggraz.dev/no-style-please/">no-style-please</a>.

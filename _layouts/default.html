@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+      {% if page.url != "/about" %}
+        <div style="float:right;"><a href="about">About</a></div>
+      {% endif %}
+        {{ content }}
+      </div>
+    </main>
+    <footer>
+      <div class="w">
+        <div style="float:left;">Copyright &copy; 2022. Atrotos</div>
+        {% if page.url != "/about" %}
+          <div style="float:right;"><a href="about">About</a></div>
+        {% else if page.url != "/" %}
+          <div style="float:right;"><a href="/">Home</a></a></div>
+        {% endif %}
+      </div>
+    </footer>
+
+    {%-if site.goat_counter and jekyll.environment == "production"-%}
+      {%-include goat_counter.html-%}
+    {%-endif-%}
+
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
+      {% endfor %}
+    {% endif %}
+  </body>
+</html>
