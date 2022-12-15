@@ -4,11 +4,7 @@ email: violarisgeorge@gmail.com # email of site's author
 url: https://atrotos.net # root address of the site
 #baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A collection of articles, resources, random thoughts, quick notes,
-  and everything and anything that I have learned or would like to expand
-  my knowledge in. I like technology, artificial intelligence, decentralized systems,
-  distributed knowledge, economics, philosophy and any possible intertwining
-  of such subjects and ideas.
+  This site is a collection of articles, resources, random thoughts, quick notes, and anything else that I have learned or want to learn more about. My interests include technology, artificial intelligence, decentralized systems, distributed knowledge, economics, philosophy, and the connections between these subjects and ideas.
 
 permalink: /:slug.html
 
