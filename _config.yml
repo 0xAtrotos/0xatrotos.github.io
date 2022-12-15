@@ -2,7 +2,7 @@ title: ATROTOS # name of the site
 author: George Violaris # name of site's author
 email: violarisgeorge@gmail.com # email of site's author
 url: https://atrotos.net # root address of the site
-baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+#baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A collection of articles, resources, random thoughts, quick notes,
   and everything and anything that I have learned or would like to expand
