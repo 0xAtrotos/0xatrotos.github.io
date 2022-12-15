@@ -38,4 +38,22 @@ Today we do not have an ideal capitalist system by any means. All systems around
 ### Bitcoin
 > It was the greatest sensation of existence: not to trust but to know. - Ayn Rand
 
-Bitcoin does not fulfill all Randian qualities of what money should be. However, it allows true capitalism to exist. It offers self-sovereignty to each and every human being on earth and allows them to participate on a global, universal even, free market. 
+Bitcoin is a decentralized digital currency that was created in 2009. It is based on the idea of a peer-to-peer network of transactions, without the need for a central authority to oversee the transactions. This makes it appealing to many people who value the idea of a currency that is not controlled by any government or institution.
+
+As far as the Randian qualities of money are concerned, it is difficult to say definitively whether or not Bitcoin fulfills them. The philosophy of Ayn Rand, the author who first proposed the idea of "Randian" qualities, is complex and multifaceted, and there is no single set of criteria that can be used to determine whether or not a currency meets her standards.
+
+That being said, some of the key characteristics of a Randian currency include the following:
+
+It must be objective and objective, meaning that it is not subject to the whims of individuals or governments.
+
+It must be durable, meaning that it can retain its value over time.
+
+It must be easily divisible and easily exchanged for goods and services.
+
+It must be scarce, meaning that there is a limited supply of it, and this limited supply helps to maintain its value.
+
+It must be widely accepted, meaning that it is accepted as a form of payment by a large number of people.
+
+In many ways, Bitcoin meets these criteria. It is a decentralized currency, meaning that it is not controlled by any government or institution. It is also durable, as it is stored electronically and can be accessed at any time. It is easily divisible, as it can be divided into very small units (called satoshis) and easily exchanged for goods and services. It is also scarce, as there is a limited supply of 21 million bitcoins that will ever be created. Finally, it is widely accepted, as it is accepted as a form of payment by a growing number of merchants and individuals around the world.
+
+It is difficult to say for sure whether Bitcoin meets all the criteria for being considered a "Randian" currency, but it does seem to meet many of the key characteristics, such as being decentralized, durable, easily divisible, scarce, and widely accepted. Nonetheless, as of the current time, it offers the best way known to humanity for holding, transferring, paying, and storing value, and it is immune to inflation.
