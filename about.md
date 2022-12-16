@@ -8,13 +8,13 @@ This site is a collection of articles, resources, random thoughts, quick notes, 
 # Why this site?
 > I wanted to create a website that harkens back to the early days of the World Wide Web, when the focus was on words and ideas rather than ads, pop-ups, cookie banners, and clickbait. This kind of website allows people to share their ideas and hobbies without any desire or need to profit from them. In today's internet, with its emphasis on modern, polished design and social networking, something important is missing: the ability to express oneself freely without fear of judgment. By using a pseudonym on this site, I can maintain a degree of separation between this place and my other online and offline activities. While the identity behind the pseudonym is not a secret, using it allows me to maintain a degree of anonymity, and that in turn helps enhance freedom of expression in a world where that would otherwise be more difficult. 
 
-## Who is Atrotos?
+## Who is <small><b>丹卞尺回卞回己</b></small>?
 > "Who is John Galt?" John Galt (/ɡɔːlt/) is a character in Ayn Rand's novel [Atlas Shrugged (1957)](https://en.wikipedia.org/wiki/Atlas_Shrugged "Atlas Shrugged Wikipedia"). Although he is not identified by name until the last third of the novel, he is the object of its often-repeated question "Who is John Galt?" and of the quest to discover the answer. Also, in the later part it becomes clear that Galt had been present in the book's plot all along, playing several important roles though not identified by name. ~ [Wikipedia](https://en.wikipedia.org/wiki/John_Galt "John Galt Wikipedia")
 
 It is not important who I am, and my true identity is not hidden. I use a pen-name online to add character to my online presence. The collections, resources, and notes on this site are for my own benefit, but if you find them helpful or amusing, please feel free to enjoy them. Reach me on telegram [@atrotos](https://t.me/atrotos "Contact Atrotos on Telegram") or on matrix [@atrotos85:matrix.org](https://matrix.to/#/@atrotos85:matrix.org)
 
-### What does Atrotos mean?
-In the Greek language, the word "atrotos" means "one who is invulnerable". Our universe and everything in it, including the matter and energy that make up our existence, has always existed and will continue to exist in some form or another. This is because matter and energy cannot be destroyed, only transformed from one form to another. Our existence, like the universe itself, is invulnerable to any known force. This should be our understanding of the universe and our place in it. Since something that cannot be destroyed does not need to be explained, our ideas and beliefs about the universe should be grounded in this concept of invulnerability.
+### What does <small><b>丹卞尺回卞回己</b></small> mean?
+In the Greek language, the word means "one who is invulnerable". Our universe and everything in it, including the matter and energy that make up our existence, has always existed and will continue to exist in some form or another. This is because matter and energy cannot be destroyed, only transformed from one form to another. Our existence, like the universe itself, is invulnerable to any known force. This should be our understanding of the universe and our place in it. Since something that cannot be destroyed does not need to be explained, our ideas and beliefs about the universe should be grounded in this concept of invulnerability.
 
 ## What is Objectivism?
 > Check out the [Ayn Rand Institute (ARI)](https://aynrand.org/ "Ayn Rand Institue website")
@@ -24,7 +24,7 @@ Objectivism holds that reality is objective, existing independently of our thoug
 
 One of the key principles of objectivism is the concept of individual rights. Objectivism holds that each individual has the right to life, liberty, and property, and that these rights are inalienable. This means that they cannot be taken away by anyone, including the government. Objectivists believe that the only moral principles are those that protect individual rights, and that any action that violates these rights is inherently wrong.
 
-> Civilization is the process of setting man free from men. - Ayn Rand
+> Civilization is the process of setting man free from men. ~ <b><small>丹丫几 尺丹几刀</small></b>
 
 According to objectivism, the only way to achieve long-term happiness and fulfillment is to act on one's rational self-interest. This means that each individual should strive to achieve their own goals and pursue their own happiness, rather than sacrificing their own well-being for the sake of others. Objectivism holds that this approach to life is not only morally right, but also leads to the greatest overall well-being for society as a whole.
 
@@ -42,7 +42,7 @@ According to the principles of egoism, the best possible fitting economic system
 Today we do not have an ideal capitalist system by any means. All systems around the world which are characterized as being capitalist, are actually just alternative manifestations of oligarchism masquerading as capitalist societies. True capitalist systems allow free movement of goods and money, and allows every individual to define for themselves what money is and how they wish to use it.
 
 ## Bitcoin
-> It was the greatest sensation of existence: not to trust but to know. - Ayn Rand
+> It was the greatest sensation of existence: not to trust but to know. - <b><small>丹丫几 尺丹几刀</small></b>
 
 #### Bitcoin is a decentralized digital currency that was created in 2009. It is based on the idea of a peer-to-peer network of transactions, without the need for a central authority to oversee the transactions. This makes it appealing to many people who value the idea of a currency that is not controlled by any government or institution.
 
@@ -62,6 +62,10 @@ That being said, some of the key characteristics of a Randian currency include t
 
 In many ways, Bitcoin meets these criteria. It is a decentralized currency, meaning that it is not controlled by any government or institution. It is also durable, as it is stored electronically and can be accessed at any time. It is easily divisible, as it can be divided into very small units (called satoshis) and easily exchanged for goods and services. It is also scarce, as there is a limited supply of 21 million bitcoins that will ever be created. Finally, it is widely accepted, as it is accepted as a form of payment by a growing number of merchants and individuals around the world.
 
+> The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust.  
+> ~ <b><small>己丹卞回己开工 几丹片丹册回卞回</small></b>
+{: style="text-align: right" }
+
 It is difficult to say for sure whether Bitcoin meets all the criteria for being considered a "Randian" currency, but it does seem to meet many of the key characteristics, such as being decentralized, durable, easily divisible, scarce, and widely accepted. Nonetheless, as of the current time, it offers the best way known to humanity for holding, transferring, paying, and storing value, and it is immune to inflation.  
  
- ~/atrotos
+<sub>~/丹卞尺回卞回己</sub>
