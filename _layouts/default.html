@@ -4,7 +4,8 @@
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
     <main class="page-content" aria-label="Content">
       <div class="w">
-      {% if page.url != "/about" %}
+      {{ page.url }}
+      {% if page.url == "/" %}
         <div style="float:right;"><a href="about">About</a> | <a href="resources">Resources</a></div>
       {% endif %}
         {{ content }}
@@ -13,10 +14,12 @@
     <footer>
       <div class="w">
         <div style="float:left;">Copyright &copy; 2022. ~/atrotos</div>
-        {% if page.url != "/about" %}
-          <div style="float:right;"><a href="about">About</a> | <a href="resources">Resources</a></div>
-        {% else if page.url != "/" %}
+        {% if page.url == "/about" %}
           <div style="float:right;"><a href="/">Home</a> | <a href="resources">Resources</a></div>
+        {% elsif page.url == "/resources" %}
+          <div style="float:right;"><a href="/">Home</a> | <a href="about">About</a></div>
+        {% else %}
+          <div style="float:right;"><a href="about">About</a> | <a href="resources">Resources</a></div>
         {% endif %}
       </div>
     </footer>
