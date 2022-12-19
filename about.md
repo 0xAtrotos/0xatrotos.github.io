@@ -42,7 +42,7 @@ According to the principles of egoism, the best possible fitting economic system
 Today we do not have an ideal capitalist system by any means. All systems around the world which are characterized as being capitalist, are actually just alternative manifestations of oligarchism masquerading as capitalist societies. True capitalist systems allow free movement of goods and money, and allows every individual to define for themselves what money is and how they wish to use it.
 
 ## Bitcoin
-> It was the greatest sensation of existence: not to trust but to know. - <b><small>丹丫几 尺丹几刀</small></b>
+> It was the greatest sensation of existence: not to trust but to know. - <b><small>丹丫几 尺丹几句</small></b>
 
 #### Bitcoin is a decentralized digital currency that was created in 2009. It is based on the idea of a peer-to-peer network of transactions, without the need for a central authority to oversee the transactions. This makes it appealing to many people who value the idea of a currency that is not controlled by any government or institution.
 
