@@ -1,7 +1,7 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-# entries:
+entries:
 #   - title: informatics
 #     entries:
 #       - title: programming
@@ -282,15 +282,15 @@
 #           show_more_text: See archive...
 #           show_more_url: archive.html
 #           category: coming soon...
-#   - title: philosophy
-#     entries:
-#       - title: existence
-#         post_list:
-#           limit: 5
-#           show_more: true
-#           show_more_text: See archive...
-#           show_more_url: philosophy-existence-archive
-#           category: philosophy/existence
+  - title: philosophy
+    entries:
+      - title: existence
+        post_list:
+          limit: 5
+          show_more: true
+          show_more_text: See archive...
+          show_more_url: philosophy-existence-archive
+          category: philosophy/existence
 #       - title: aristotle
 #         post_list:
 #           limit: 5
