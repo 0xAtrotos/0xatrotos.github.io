@@ -4,7 +4,7 @@ email: a.t.r.o.t.o.s.m.y.n.o.d.u.s@gmail.com # email of site's author
 url: https://atrotos.net # root address of the site
 #baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  This site is a collection of my resources, small articles, random thoughts, and quick notes on objectivism, technology and economics and the connections between these subjects and ideas.
+  Objectivism and Individual Sovereignty
 
 permalink: /:slug.html
 

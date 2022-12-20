@@ -1,13 +1,10 @@
 ---
 layout: home
 ---
-# Objectivism
-- Read the [newsletter](https://objectivism.substack.com "Objectivism Newsletter by Atrotos, hosted on Substack")
+# [about](/about "About this site") | [resources](/resources "Useful resources")
+# Read the [newsletter](https://objectivism.substack.com "Objectivism Newsletter by Atrotos, hosted on Substack")
 
-# Technology
-No articles published yet.
-# Economics
-No articles published yet.
-
-{: style="text-align: right" }
-~ Last Update: December 19th, 2022
+## Articles
+- [What is Objectivism?](/what-is-objectivism "What is Objectivism")
+- [Why $Capitalism?](/why-capitalism "Why Capitalism?")
+- [The Intersection](/bitcoin "Bitcoin")
