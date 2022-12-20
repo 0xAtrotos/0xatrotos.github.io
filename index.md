@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-[about](/about "About this site") | [resources](/resources "Useful resources")
+[about](/about "About this site") | [resources](/resources "Useful resources")  
 Read the [newsletter](https://objectivism.substack.com "Objectivism Newsletter by Atrotos, hosted on Substack")
 
 ## Articles
